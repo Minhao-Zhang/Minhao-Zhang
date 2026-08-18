@@ -22,8 +22,6 @@ applied AI engineering work.
   agent wired into a running game, built to practise the operational half of the work: traces,
   replay, and human-in-the-loop control.
 
-Accuracy figures live in those repos rather than here, so they stay current.
-
 At the University of Chicago I build internal AI tooling, including a nine-service Cloud Run
 workflow across Microsoft Graph, Airtable, Box, and Zoom, and I led Claude Code adoption for
 technical and non-technical staff.
