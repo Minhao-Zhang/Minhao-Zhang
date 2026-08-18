@@ -49,4 +49,4 @@ workflow across Microsoft Graph, Airtable, Box, and Zoom, and I led Claude Code 
 technical and non-technical staff. Accuracy figures live in each repo rather than here, so they
 stay current.
 
-Chicago, IL · [LinkedIn](https://www.linkedin.com/in/minhao--zhang/) · minhaoz@uchicago.edu
+Chicago, IL · [LinkedIn](https://www.linkedin.com/in/minhao--zhang/)
