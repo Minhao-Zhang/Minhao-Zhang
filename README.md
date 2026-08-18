@@ -17,7 +17,7 @@ applied AI engineering work.
   [Hugging Face](https://huggingface.co/datasets/minhaozhang/BIRD_Obfuscation).
 - **[obsidian-mcp-server](https://github.com/Minhao-Zhang/obsidian-mcp-server)** (AGPL-3.0): an
   MCP server that opens a personal knowledge vault to AI assistants, with semantic search over a
-  local vector index. Forked and patched by other developers.
+  local vector index. One fork has carried its own patches on top.
 - **[slay_the_spire_agent](https://github.com/Minhao-Zhang/slay_the_spire_agent)** (Apache-2.0): an
   agent wired into a running game, built to practise the operational half of the work: traces,
   replay, and human-in-the-loop control.
